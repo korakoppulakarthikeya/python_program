@@ -1,8 +1,0 @@
-for var in seq:
-#stmts
-it is mainly used to iterate a sequence (list,tuple set)
-
-
-while cond:
-stmsts
-#range (start,stop+1,step)
